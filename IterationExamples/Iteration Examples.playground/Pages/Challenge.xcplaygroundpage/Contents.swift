@@ -1,4 +1,4 @@
-//: [Previous](@previous) / [Next](@next)
+//: [Previous](@previous)
 //: # Challenge
 //: Extend the code you wrote on the following page to generate this image:
 //:
